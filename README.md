@@ -8,6 +8,8 @@ A binary classification neural network trained on 300,000+ real LendingClub loan
 
 LendingClub is a peer-to-peer lending platform that connects borrowers with investors. The goal of this project is to build a model that, given a loan applicant's historical financial data, predicts whether they will **fully repay** or **charge off** (default) on their loan.
 
+For this project, We will be using a subset of the LendingClub DataSet obtained from Kaggle: https://www.kaggle.com/wordsforthewise/lending-club
+
 This kind of model is at the core of real-world **credit risk systems**.
 
 ---
